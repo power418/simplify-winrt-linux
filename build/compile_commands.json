@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/Administrator/Documents/Projects/win32-mingw/simplify-window/build",
-  "command": "C:/Users/Administrator/scoop/apps/gcc/current/bin/g++.exe -DNOMINMAX -DUNICODE -DWIN32_LEAN_AND_MEAN -D_UNICODE  -std=gnu++11 -o CMakeFiles/win32-mingw.dir/main.cpp.obj -c C:/Users/Administrator/Documents/Projects/win32-mingw/simplify-window/main.cpp",
-  "file": "C:/Users/Administrator/Documents/Projects/win32-mingw/simplify-window/main.cpp",
-  "output": "CMakeFiles/win32-mingw.dir/main.cpp.obj"
-}
-]

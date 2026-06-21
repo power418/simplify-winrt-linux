@@ -1,3 +1,0 @@
-C:/Users/Administrator/Documents/Projects/win32-mingw/simplify-window/build/CMakeFiles/win32-mingw.dir
-C:/Users/Administrator/Documents/Projects/win32-mingw/simplify-window/build/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/Documents/Projects/win32-mingw/simplify-window/build/CMakeFiles/rebuild_cache.dir
